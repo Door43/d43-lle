@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lle:home|Door43 (lle)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lle|d43-lle repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lle/archive/master.zip|d43-lle.zip]]
+
+**Recent Changes**
+{{changes>ns = lle}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lle|Ethnologue data]]
+
